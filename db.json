@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "max",
+      "image": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/chameleon/title-movie/230873_STUART%20LITTLE_1400x2100_English.jpg?itok=zOnUGx72",
+      "price": 0.03,
+      "id": 8
     }
   ]
 }
